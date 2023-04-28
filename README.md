@@ -26,3 +26,7 @@ OpengGL、OpenCV、OpenPose
 Jenkins、CMake、makefile、configure、autoconf、automake、autogen
 autotools
 yum install automake
+
+## 7、数据统计
+
+## 8、崩溃和日志收集定位
